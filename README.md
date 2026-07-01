@@ -1,13 +1,119 @@
+<div align="center">
+
+# 👋 Hi, I'm Md. Yamin Mia
+
+### 🚀 Web Designer & Developer | Founder of WebCodeSource
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=700&lines=Helping+Beginners+Learn+Web+Design+%26+Development;Building+WebCodeSource;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+Laravel+%7C+WordPress" />
+
+<br>
+
+[![Website](https://img.shields.io/badge/🌐_Website-WebCodeSource-orange?style=for-the-badge)](https://webcodesource.com)
+[![YouTube](https://img.shields.io/badge/▶_YouTube-LearnWithYamin-red?style=for-the-badge)](https://youtube.com/@learnwithyamin)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Md_Yamin_Mia-blue?style=for-the-badge)](https://linkedin.com/in/learnwithyamin)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+💙 Passionate Web Designer & Developer
+
+🚀 Founder of **WebCodeSource**
+
+📚 Building a complete Bengali learning platform
+
+🎯 Helping beginners become professional Web Designers & Developers
+
+🌍 Currently living in Saudi Arabia
+
+---
+
+# 🚀 Current Learning Roadmap
+
+✅ Computer Basics
+
+✅ HTML & CSS
+
+✅ Web Design
+
+✅ JavaScript
+
+✅ Git & GitHub
+
+✅ PHP & MySQL
+
+✅ Laravel
+
+✅ WordPress
+
+✅ React
+
+✅ Next.js
+
+✅ Freelancing
+
+---
+
+# 💻 Tech Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/learnwithyamin/learnwithyamin/main/assets/banner.png" alt="WebCodeSource Banner" width="100%">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,wordpress,react,nextjs,git,github,vscode,figma"/>
+
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Yamin Mia</h1>
+---
 
-<h3 align="center">
-Web Designer & Developer | Founder of WebCodeSource
-</h3>
+# 📊 GitHub Stats
 
-<p align="center">
-Helping Beginners Learn Web Design & Web Development 🚀
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=learnwithyamin&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithyamin&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithyamin&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Working On
+
+📚 WebCodeSource Learning Platform
+
+🎥 Video Courses
+
+📝 Technical Articles
+
+💻 Real World Projects
+
+🚀 Open Source Learning Resources
+
+---
+
+# 🎯 Mission
+
+> Learn • Build • Share
+
+Helping beginners learn Web Design & Web Development through practical projects and structured learning.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://komarev.com/ghpvc/?username=learnwithyamin&label=Profile+Views&color=orange&style=for-the-badge"/>
+
+</div>
