@@ -4,7 +4,7 @@
 
 ### 🚀 Web Designer & Developer | Founder of WebCodeSource
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=700&lines=Helping+Beginners+Learn+Web+Design+%26+Development;Building+WebCodeSource;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+Laravel+%7C+WordPress" />
+<img src="https://scontent.fjed2-2.fna.fbcdn.net/v/t39.30808-6/728533183_1503508638188920_5511262991657746410_n.png?stp=dst-png&cstp=mx1942x809&ctp=s960x960&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=JU4vOyfT_LcQ7kNvwFi-nX0&_nc_oc=AdqhvBUN-x1qvUFfZhJuLBmlVXdkg-SWUA4WpP-IXlgBjKZbrCAZjMEKw-SsybqgJdI&_nc_zt=23&_nc_ht=scontent.fjed2-2.fna&_nc_gid=EImIrwLx50uKFcPBfxog8w&_nc_ss=7b2a8&oh=00_AQA9w2lTAEkumyw4yQc0GI6UPUOmUsEcNHSvju0Suk7Jqw&oe=6A4B26F2" />
 
 <br>
 
