@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-WebCodeSource-orange?style=for-the-badge)](https://webcodesource.com)
 [![YouTube](https://img.shields.io/badge/▶_YouTube-LearnWithYamin-red?style=for-the-badge)](https://youtube.com/@learnwithyamin)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Md_Yamin_Mia-blue?style=for-the-badge)](https://linkedin.com/in/learnwithyamin)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Md_Yamin_Mia-blue?style=for-the-badge)](https://linkedin.com/in/mdyaminmia)
 
 </div>
 
