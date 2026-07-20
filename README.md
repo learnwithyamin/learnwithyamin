@@ -18,11 +18,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/md-yamin-mia-98a294214">
+<a href="https://linkedin.com/in/md-yamin-mia">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://facebook.com/fullstackdeveloperyamin">
+<a href="https://facebook.com/learnwithyaminn">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
 </a>
 
@@ -60,11 +60,11 @@
 
 ✔️ Founder of WebCodeSource
 
-✔️ Passionate about Building Real World Projects
+✔️ Passionate about Building Real-World Projects
 
 ✔️ Helping Beginners Learn Web Development
 
-✔️ Currently Living in Saudi Arabia 🇸🇦
+✔️ Currently living in Saudi Arabia 🇸🇦
 
 ---
 
