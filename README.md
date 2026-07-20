@@ -1,16 +1,40 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/activeyamin/activeyamin/main/assets/banner.png" width="100%" alt="Banner"/>
+
 # 👋 Hi, I'm Md. Yamin Mia
 
-### 🚀 Web Designer & Developer | Founder of WebCodeSource
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=3399FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;PHP+%7C+Laravel+Developer;WordPress+Expert;Graphic+Designer;Founder+of+WebCodeSource;Always+Learning+New+Technology"/>
 
-<img src="https://scontent.fjed2-1.fna.fbcdn.net/v/t39.30808-6/728533183_1503508638188920_5511262991657746410_n.png?stp=dst-png&cstp=mx1942x809&ctp=s960x960&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=8T6KomJCMwYQ7kNvwF4xNtT&_nc_oc=AdrafS5fcbc5rK6UmZH2tMlpsQscqbUPWFflRGVCgyBGxNS2Qn-R9Vwhrjxysj1lXdt-dfi7geoWS3jdytKm-DOs&_nc_zt=23&_nc_ht=scontent.fjed2-1.fna&_nc_gid=-BbbLNqBMm8mBve-vSI2jA&_nc_ss=7b2a8&oh=00_AQAd1C8Ac4SwvHboiKnlEm5NFnlmmPtpvJKuXpmAeYWLBg&oe=6A63C2F2" />
+### 💻 Full Stack Web Developer
 
-<br>
+### 🚀 Founder of WebCodeSource
 
-[![Website](https://img.shields.io/badge/🌐_Website-WebCodeSource-orange?style=for-the-badge)](https://webcodesource.com)
-[![YouTube](https://img.shields.io/badge/▶_YouTube-LearnWithYamin-red?style=for-the-badge)](https://youtube.com/@learnwithyamin)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Md_Yamin_Mia-blue?style=for-the-badge)](https://linkedin.com/in/mdyaminmia)
+### 🌍 Currently Living in Saudi Arabia 🇸🇦
+
+<p>
+
+<a href="https://github.com/activeyamin">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/md-yamin-mia-98a294214">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://facebook.com/fullstackdeveloperyamin">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://youtube.com/@learnwithyamin">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://webcodesource.com">
+<img src="https://img.shields.io/badge/Website-orange?style=for-the-badge"/>
+</a>
+
+</p>
 
 </div>
 
@@ -18,41 +42,85 @@
 
 # 👨‍💻 About Me
 
-💙 Passionate Web Designer & Developer
+<img align="right" width="300" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 
-🚀 Founder of **WebCodeSource**
+✔️ 5+ Years of Experience
 
-📚 Building a complete Bengali learning platform
+✔️ Full Stack Web Developer
 
-🎯 Helping beginners become professional Web Designers & Developers
+✔️ Responsive Web Designer
 
-🌍 Currently living in Saudi Arabia
+✔️ Laravel Developer
+
+✔️ WordPress Expert
+
+✔️ Graphic Designer
+
+✔️ IT Executive
+
+✔️ Founder of WebCodeSource
+
+✔️ Passionate about Building Real World Projects
+
+✔️ Helping Beginners Learn Web Development
+
+✔️ Currently Living in Saudi Arabia 🇸🇦
+
+---
+
+# 🚀 Current Mission
+
+🎯 Helping Beginners Become Professional Developers.
+
+✅ Complete Learning Roadmaps
+
+✅ Practical Projects
+
+✅ Real Client Projects
+
+✅ Free Learning Resources
+
+✅ Technical Articles
+
+✅ Video Tutorials
+
+✅ Career Guideline
 
 ---
 
 # 🚀 Current Learning Roadmap
 
-✅ Computer Basics
+🟢 Computer Basics
 
-✅ HTML & CSS
+🟢 HTML5
 
-✅ Web Design
+🟢 CSS3
 
-✅ JavaScript
+🟢 Bootstrap
 
-✅ Git & GitHub
+🟢 Tailwind CSS
 
-✅ PHP & MySQL
+🟢 JavaScript
 
-✅ Laravel
+🟢 jQuery
 
-✅ WordPress
+🟢 Git
 
-✅ React
+🟢 GitHub
 
-✅ Next.js
+🟢 PHP
 
-✅ Freelancing
+🟢 Laravel
+
+🟢 MySQL
+
+🟢 WordPress
+
+🟢 React
+
+🟢 Next.js
+
+🟢 REST API
 
 ---
 
@@ -60,60 +128,8 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,wordpress,react,nextjs,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,php,laravel,mysql,wordpress,react,nextjs,git,github,vscode,figma,photoshop"/>
 
 </p>
 
 ---
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=learnwithyamin&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithyamin&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithyamin&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌱 Currently Working On
-
-📚 WebCodeSource Learning Platform
-
-🎥 Video Courses
-
-📝 Technical Articles
-
-💻 Real World Projects
-
-🚀 Open Source Learning Resources
-
----
-
-# 🎯 Mission
-
-> Learn • Build • Share
-
-Helping beginners learn Web Design & Web Development through practical projects and structured learning.
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-<img src="https://komarev.com/ghpvc/?username=learnwithyamin&label=Profile+Views&color=orange&style=for-the-badge"/>
-
-</div>
